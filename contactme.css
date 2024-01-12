@@ -1,0 +1,30 @@
+#img{
+    border: 5px solid black;
+    margin-left: 70px;
+    margin-top: 30px;
+    
+}
+#head{
+    font-size: 50px;
+    text-align: center;
+}
+#input{
+    font-size: 50px;
+    margin-left: 700px;
+    margin-top: -450px;
+}
+.input2{
+    font-size: 30px;
+}
+#submit{
+    font-size: 40px;
+    background-color:white ;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+#submit:hover{
+    background-color:rgb(208, 231, 231);
+}
+#body{
+    background-color: #f9fbff;
+}

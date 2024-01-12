@@ -1,0 +1,85 @@
+.name{
+    margin-top: 200px;
+    margin-left: 450px;
+}
+a:link{
+    color: rgb(7, 7, 7);
+}
+a:visited{
+    color: rgb(2, 14, 76);
+}
+a:active{
+    color: rgb(19, 109, 142);
+}
+a:hover{
+    background-color: rgb(208, 231, 231);
+}
+#move{
+    margin-top: 200px;
+    margin-left: 43%;
+    font-size: 40px;
+}
+#head1
+{
+ font-size: 100px;
+ color: red;
+}
+#head2{
+    font-size: 100px;
+    color: black;
+    font-style: inherit;
+}
+#head3{
+    font-size: 100px;
+    color: rgb(144, 171, 5);
+}
+#head4{
+    font-size: 100px;
+    color: blue;
+}
+#head5{
+    font-size: 100px;
+    color: rgb(240, 180, 3);
+}
+#head6{
+    font-size: 100px;
+    color: black;
+    font-style: inherit;
+}
+#head7{
+    font-size: 100px;
+    color: rgb(113, 6, 6);
+}
+#head8{
+    font-size: 100px;
+    color: rgb(11, 74, 18);
+}
+#head9{
+    font-size: 100px;
+    color: black;
+    font-style: inherit;
+}
+.links{
+    margin-left: 800px;
+    margin-top: -50px;
+    font-size: 30px;
+}
+/* #aboutme{
+    
+} */
+#education{
+    margin-left: 10px;
+
+}
+#projects{
+    margin-left: 10px;
+}
+#certifications{
+    margin-left: 10px;
+}
+#contactme{
+    margin-left: 10px;
+}
+#body{
+    background-color: #f9fbff;
+}

@@ -1,0 +1,49 @@
+#body{
+    background-color:#f9fbff ;
+}
+.head{
+    text-align: center;
+    font-size: 40px;
+}
+.data{
+    font-family: monospace;
+    font-size: 25px;
+}
+.name{
+    font-size: 30px;
+}
+#data1{
+    margin-left: 33px;
+    border: 3px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#data2{
+    margin-left: 33px;
+    border: 3px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+}
+#data3{
+    border: 3px solid black; 
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px; 
+}
+#next:hover{
+    background-color:rgb(208, 231, 231);
+}
+#next{  
+margin-left: 1300px;
+border: 3px solid rgb(0, 0, 0);
+font-size: 30px;
+text-decoration: none;
+padding-left: 30px;
+padding-right: 30px;   
+}
